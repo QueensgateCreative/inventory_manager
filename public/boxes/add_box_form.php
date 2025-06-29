@@ -1,6 +1,8 @@
 <?php
 require_once '../../config.php';
 require_login();
+
+// echo '<!-- This file is part of the Inventory Manager project. -->';
 ?>
 <!DOCTYPE html>
 <html>
